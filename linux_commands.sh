@@ -41,5 +41,9 @@
 # Processes
 # ps 
 # ps -ef | grep python
-# ./sleeper.sh &
+# ./sleeper.sh &                    & send it to the background      fg 1 takes it to the front
 # fg 1
+
+# Learning from Dockerfiles
+# Explore Python Dockerhub
+# https://hub.docker.com/_/python
